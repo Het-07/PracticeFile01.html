@@ -1,0 +1,37 @@
+* {
+    background-color: lightblue;
+}
+
+div.image {
+    margin: 5px;
+    box-align: center;
+    align-content: center;
+    align-items: center;
+    float: left;
+    width: 215px;
+    height: 360px;
+    border: 1px solid #777;
+    padding: 5px;
+    text-align: center;
+}
+
+div.image img {
+    width: 215px;
+    height: 315px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.img-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+P.container {
+text-align: center;
+
+}
